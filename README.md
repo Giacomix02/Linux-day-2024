@@ -4,7 +4,7 @@
 
 Grazie per esserti interessato a questo argomento, in questa repository troverai la presentazione del talk
 
-* **Presentazione pdf**: [LINK](/)
+* **Presentazione pdf**: [LINK](/come funzionano i navigatori, introduzione agli algoritmi.pdf)
 
-* **Presentazione PPTX**: [LINK](/)
+* **Presentazione PPTX**: [LINK](/come funzionano i navigatori, introduzione agli algoritmi.pptx)
 
